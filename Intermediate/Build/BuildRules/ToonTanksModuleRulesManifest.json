@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"G:\\03_UE_4_Projects\\Udemy Course\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\Source\\ToonTanks\\ToonTanks.Build.cs",
+		"G:\\03_UE_4_Projects\\Udemy Course\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\Source\\ToonTanks.Target.cs",
+		"G:\\03_UE_4_Projects\\Udemy Course\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\Source\\ToonTanksEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

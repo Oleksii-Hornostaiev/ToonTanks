@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ToonTanks",
+			"Path": "G:\\03_UE_4_Projects\\Udemy Course\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\Source\\ToonTanks.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ToonTanksEditor",
+			"Path": "G:\\03_UE_4_Projects\\Udemy Course\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\Source\\ToonTanksEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
